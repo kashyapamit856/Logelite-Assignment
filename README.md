@@ -152,4 +152,4 @@ This includes project structure planning, layout implementation, responsive refi
 
 ## Dashboard Light Preview
 
-![Dashboard Screenshot](./assets/screenshots/Dashboard_Light_ScreenShort.png)
+![Dashboard Screenshot](./src/assets/screenshots/Dashboard_Light_ScreenShort.png)

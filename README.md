@@ -158,7 +158,7 @@ This includes project structure planning, layout implementation, responsive refi
 
 ![Dashboard Screenshot](./src/assets/screenshots/Dashboard_Dark_ScreenShort.png)
 
-## Dashboard Tablet Light and Drak Preview
+## Dashboard Tablet Light and Dark Preview
 
 <p align="center">
 

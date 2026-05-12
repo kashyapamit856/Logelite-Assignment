@@ -149,3 +149,7 @@ The visual direction is inspired by modern SaaS analytics tools with:
 Approximate time spent: **7-9 hours**
 
 This includes project structure planning, layout implementation, responsive refinement, reusable components, chart/table integration, Framer Motion animations, and final polish.
+
+## Dashboard Light Preview
+
+![Dashboard Screenshot](./assets/screenshots/Dashboard_Light_ScreenShort.png)

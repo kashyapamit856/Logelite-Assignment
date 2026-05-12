@@ -160,6 +160,16 @@ This includes project structure planning, layout implementation, responsive refi
 
 ## Dashboard Tablet Light and Drak Preview
 
-![Dashboard Screenshot](./src/assets/screenshots/Dashboard_Light_ScreenShort2.png)
+<p align="center">
 
-![Dashboard Screenshot](./src/assets/screenshots/Dashboard_Dark_ScreenShort2.png)
+  <img 
+    src="./src/assets/screenshots/Dashboard_Light_ScreenShort2.png"
+    width="48%"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="./src/assets/screenshots/Dashboard_Dark_ScreenShort2.png"
+    width="48%"
+  />
+
+</p>
